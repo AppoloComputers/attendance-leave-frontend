@@ -1,6 +1,6 @@
-# Leave Management System using Redux
+# Attendence Management System using Redux
 
-The Leave Management System is a part of Human Resource Management System. It enables the HR department to manage the employees leave.
+The Attendence Management System is a part of Human Resource Management System. It enables the HR department to manage the employees leave.
 
 ## Getting Started
 
