@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-// ... and fullcalendar-reactwrapper.
+// ... and fullcalendar-reactwrapper.Integrate with POST /leave/apply API
 import FullCalendar from 'fullcalendar-reactwrapper';
 
 class FullCalendar extends React.Component {
